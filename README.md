@@ -1,1 +1,1 @@
-"# HW5" 
+This exercise is a part of the git homework assignment for the course on Software Engineering (CSC 510) at NC State University
